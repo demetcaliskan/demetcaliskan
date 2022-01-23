@@ -4,9 +4,13 @@
 
 # Welcome 🥳
 
-<p>
+<h4>
   Hello there, I am Demet 🧚🏻‍♀️
-</p>
+</h4>
+
+- 🎓 I'm currently studying Computer Engineering at Mef University.
+- 🚀 I’m currently learning Frontend Development with React and Machine Learning with Python.
+- 🎃 I’m currently working as a SEO Specialist.
 
 ### Contact with me via these platforms!
 
