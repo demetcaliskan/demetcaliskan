@@ -10,7 +10,7 @@
 
 - 🎓 I'm currently studying Computer Engineering at Mef University.
 - 🚀 I’m currently learning Frontend Development with React and Machine Learning with Python.
-- 🎃 I’m currently working as a SEO Specialist.
+- 🎃 I’m currently working as a SEO & ASO Analyst.
 
 ### Contact with me via these platforms!
 
