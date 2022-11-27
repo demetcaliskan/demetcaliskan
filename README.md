@@ -21,6 +21,6 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=demetcaliskan&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=demetcaliskan&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetcaliskan&hide=html,css&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight">
 </div>
