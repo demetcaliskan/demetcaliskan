@@ -14,8 +14,8 @@
 
 ### Contact with me via these platforms!
 
-<a href="https://www.linkedin.com/in/demet-%C3%A7al%C4%B1%C5%9Fkan-98a1001a4/" target="_blank" rel="nofollow"><img alt="Demet's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:caliskand@mef.edu.tr" target="_blank" rel="nofollow"><img alt="Demet's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/demet-caliskan/" target="_blank" rel="nofollow"><img alt="Demet's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:demetcaliskann@icloud.com" target="_blank" rel="nofollow"><img alt="Demet's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 ## 📊 GitHub Stats
