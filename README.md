@@ -8,7 +8,7 @@
   Hello there, I am Demet 🧚🏻‍♀️
 </h4>
 
-- 🚀 I’m currently working as a Frontend Web Developer in Aposto.
+- 🚀 I’m currently working as a Frontend Web Developer.
 - 🎓 I have graduated from Mef University, Bachelor of Computer Engineering program in 2023.
 - 🎃 I have experience working as an SEO & ASO Analyst.
 
